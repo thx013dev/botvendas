@@ -1,0 +1,17 @@
+{
+  "name": "bot-vendas-railway",
+  "version": "1.0.0",
+  "description": "Bot de vendas Discord.js pronto para Railway",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "node-cron": "^4.2.1",
+    "sqlite3": "^5.1.7"
+  }
+}
